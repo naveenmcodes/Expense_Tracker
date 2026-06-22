@@ -1,2 +1,5 @@
-# Expense_Tracker
-Python based expense tracker that records expenses stores data in csv format and calculates total spending
+Intern ID: CITS4529
+Name: Naveen M
+No. of weeks: 4
+Project Name: Expense Tracker
+Scope: 
