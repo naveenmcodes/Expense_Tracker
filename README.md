@@ -27,6 +27,12 @@ Data Storage:
 
 Expense data is stored in a CSV file named:expenses.csv
 
+Screenshot:
+
+<img width="612" height="340" alt="Screenshot 2026-06-22 164749" src="https://github.com/user-attachments/assets/f2fc45ff-bb61-469c-805d-0350c8bd28c5" />
+<img width="700" height="26" alt="Screenshot 2026-06-22 164832" src="https://github.com/user-attachments/assets/acd3fa07-38bc-486f-925f-dc33c562b699" />
+
+
 Each record contains:
 - Date
 - Category
